@@ -1,8 +1,8 @@
-## Welcome to CSoC-Algorithms
+# Welcome to CSoC-Algorithms
 
 A repository consisting of all the algorithms in various programming languages
 
-# Guidelines:
+## Guidelines:
 
 1. All the issues from this repo are of level easy
 2. One can solve max 3 issues from here
